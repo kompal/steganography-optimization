@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\firecast-appedit\app\libs\JadeAndroid.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d4dab97ed63dab96edd7d5e2305cba2208b4db8">
+        <dex dex="D:\firecast-appedit\app\build\intermediates\pre-dexed\debug\JadeAndroid_4d03b801dc9775f9c938e45f852d2893520aa414.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firecast-appedit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="D:\firecast-appedit\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.6.1_e8b578920216d5491de0fea71bbff47dab4086dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firecast-appedit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="D:\firecast-appedit\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.6.1_cd6ec9124f9023240311ff320b55e104b109122d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firecast-appedit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="D:\firecast-appedit\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.6.1_4bae78d68a2627b7958450f518c244971af912c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firecast-appedit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="D:\firecast-appedit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.1_20140250ee42576b3189f85c919cd43ad10bc449.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firecast-appedit\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\firecast-appedit\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_75d8f3c154c008fd67d2fbf2cfe2e2aab9eafb34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firecast-appedit\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\firecast-appedit\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_dc77286581d73619123198a02641672e86ca22e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firecast-appedit\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\firecast-appedit\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_fdf034ba91b06172d382654ecb62e4c14301380a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firecast-appedit\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\firecast-appedit\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_9efe6eb5aa0413fdb37d1001dc2156856ce3ccb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firecast-appedit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="D:\firecast-appedit\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.6.1_ae057412dae4a8adff1b43bc73dcf7f0f90e6341.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\owner\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\firecast-appedit\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_05d7ff5a6a4a03102724cc0e4eb8f8a51a9226e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firecast-appedit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="D:\firecast-appedit\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.6.1_d9167d8327723a1bf5450e295fd8d2659f21370c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firecast-appedit\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\firecast-appedit\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_e09cd5853722b4eb4f4386866fe134e2b8a2190c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firecast-appedit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="D:\firecast-appedit\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.6.1_14378f492ac4856c52b5b1d454af890c98d204e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firecast-appedit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="D:\firecast-appedit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.6.1_00bc3076d2c1034f6088e8b859568c3fb37a18c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firecast-appedit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="D:\firecast-appedit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.1_4eaf27250e85c04789154bca7799d751fbe75dfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firecast-appedit\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\firecast-appedit\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_2a8f6efd8e71c344e9a1f725cdd75f7bf718325c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firecast-appedit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="D:\firecast-appedit\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.1_d62669efc0d3b714f16ab6d0d5c30f361f4bbd18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firecast-appedit\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\firecast-appedit\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_c66e19d91078fee415cfba9aadea6d1666b672f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firecast-appedit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="D:\firecast-appedit\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.6.1_3486304b0d401d91e9dc7517d6e50c61c67aa913.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firecast-appedit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="D:\firecast-appedit\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.6.1_27d737c2700393c9f478026b86fd53dfa7a95759.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firecast-appedit\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\firecast-appedit\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_aa835dfc23866abad464645a3703ca818b3e554f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firecast-appedit\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\firecast-appedit\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_3897d259a05173c25fe8770aaff40cb5461a375c.jar" />
+    </item>
+
+</items>
